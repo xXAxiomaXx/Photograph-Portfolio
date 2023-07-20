@@ -12,11 +12,12 @@
 
   html {
     overflow-x: hidden;
+    font-size: 62.5%;
   }
 
 .header{
     width: 100%;
-    height: 90px;
+    height: 9rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -28,8 +29,8 @@
 }
 
 .social a{
-    font-size: 27px;
-    margin-left: 20px;
+    font-size: 2.7rem;
+    margin-left: 2rem;
     color: black;
 }
 
@@ -38,21 +39,21 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 20px 9%;
+    padding: 2rem 9%;
 }
 
 .nav h1{
-    margin-right: 150px;
-    margin-left: 150px;
-    font-size: 44px;
-    letter-spacing: 25px;
+    margin-right: 15rem;
+    margin-left: 15rem;
+    font-size: 4.4rem;
+    letter-spacing: 2.5rem;
     cursor: default;
 }
 
 .nav a{
-    margin-right: 40px;
-    font-size: 20px;
-    letter-spacing: 4.8px;
+    margin-right: 4rem;
+    font-size: 2rem;
+    letter-spacing: .48rem;
     color: black;
     transition: .5s ease;
 }
@@ -61,55 +62,55 @@
     display: flex;
     align-items: center;
     justify-content: center;
-    margin-bottom: 100px;
+    margin-bottom: 10rem;
 }
 
 .about img{
-    height: 700px;
-    width: 750px;
-    margin-top: 150px;
-    margin-right: 100px;
+    height: 70rem;
+    width: 75rem;
+    margin-top: 15rem;
+    margin-right: 10rem;
 }
 
 .about div{
-    height: 700px;
-    width: 750px;
+    height: 70rem;
+    width: 75rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     background-color: #F2E9E4;
-    margin-top: 150px;
+    margin-top: 15rem;
 }
 
 .about div h3{
-    margin-bottom: 50px;
+    margin-bottom: 5rem;
     text-align: center;
-    font-size: 23px;
+    font-size: 2.3rem;
     font-style: normal;
     font-weight: 700;
-    letter-spacing: 5.8px;
+    letter-spacing: .58rem;
 }
 
 .about div p{
-    padding: 50px;
-    font-size: 18px;
+    padding: 5rem;
+    font-size: 1.8rem;
     font-weight: 500;
 }
 
 .about .btn{
     background-color: black;
     font-weight: 600;
-    width: 300px;
-    height: 80px;
+    width: 30rem;
+    height: 8rem;
     justify-content: center;
     align-items: center;
     display: flex;
     color: white;
-    border-radius: 10px;
-    font-size: 20px;
-    letter-spacing: 12.24px;
-    margin-top: 80px;
+    border-radius: 1rem;
+    font-size: 2rem;
+    letter-spacing: 1.224rem;
+    margin-top: 8rem;
     transition: .5s ease;
 }
 
@@ -118,158 +119,158 @@
     display: flex;
     justify-content: space-evenly;
     align-items: center;
-    margin-right: 200px;
+    margin-right: 20rem;
 
 }
 
 
 .services div img{
-    width: 320px;
-    height: 450px;
-    margin-bottom: 30px;
+    width: 32rem;
+    height: 45rem;
+    margin-bottom: 3rem;
     z-index: 100;
 }
 
 .services .img{
-    box-shadow:-60px -40px #F2E9E4;
+    box-shadow:-6rem -4rem #F2E9E4;
 }
 
 
 .card{
-    width: 300px;
-    margin-left: 200px;
+    width: 30rem;
+    margin-left: 20rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-    margin-bottom: 200px;
+    margin-bottom: 20rem;
 }
 
 .card h3{
-    font-size: 20px;
+    font-size: 2rem;
     font-weight: 700;
-    letter-spacing: 5.8px;
-    margin-bottom: 20px;
+    letter-spacing: .58rem;
+    margin-bottom: 2rem;
 }
 
 .card .desc{
-    width: 260px;
-    font-size: 15px;
+    width: 26rem;
+    font-size: 1.5rem;
     font-weight: 400;
-    letter-spacing: 3px;
-    margin-bottom: 15px;
+    letter-spacing: .3rem;
+    margin-bottom: 1.5rem;
 }
 
 .card .price{
-    width: 280px;
-    font-size: 18px;
+    width: 28rem;
+    font-size: 1.8rem;
     font-weight: 600;
-    letter-spacing: 4px;
+    letter-spacing: .4rem;
 }
 
 .contact{
     width: 100%;
-    height: 650px;
+    height: 65rem;
     background-color: #F2E9E4;
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-bottom: 50px;
+    margin-bottom: 5rem;
 }
 
 .contact div{
     background-color: white;
-    width: 600px;
-    height: 400px;
+    width: 60rem;
+    height: 40rem;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
     z-index: 100;
     position: relative;
-    left: 180px;
+    left: 18rem;
 }
 
 .contact div h3{
-    font-size: 20px;
+    font-size: 2rem;
     font-weight: 700;
-    letter-spacing: 12px;
-    margin-top: 20px;
+    letter-spacing: 1.2rem;
+    margin-top: 2rem;
 }
 
 .contact div p{
-    width: 450px;
-    font-size: 14px;
-    font-weight: 400px;
-    letter-spacing: 9px;
+    width: 45rem;
+    font-size: 1.4rem;
+    font-weight: 40rem;
+    letter-spacing:.9rem;
     justify-content: center;
     display: flex;
 }
 
 .contact div a{
-    margin-top: 20px;
-    margin-bottom: 20px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
     background-color: black;
     color: white;
-    border-radius: 10px;
-    width: 260px;
-    height: 60px;
+    border-radius: 1rem;
+    width: 26rem;
+    height: 6rem;
     display: flex;
     justify-content: center;
     align-items: center;
-    letter-spacing: 11px;
+    letter-spacing: 1.1rem;
     font-weight: 700;
-    font-size: 20;
+    font-size: 2rem;
     transition: .5s ease;
 }
 
 .img1{
-    height: 680px;
-    width: 600px;
+    height: 68rem;
+    width: 60rem;
     position: relative;
-    bottom: 15px;
+    bottom: 1.5rem;
     z-index: 0;
 }
 
 .img2{
-    height: 580px;
+    height: 58rem;
     position: relative;
-    top: 60px;
-    right: 220px;
+    top: 6rem;
+    right: 22rem;
     z-index: 100;
-    box-shadow:-25px -35px white;
+    box-shadow:-2.5rem -3.5rem white;
 }
 
 .comment{
     width: 100%;
-    height: 250px;
+    height: 25rem;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    margin-bottom: 50px;
+    margin-bottom: 5rem;
 }
 
 .comment h2{
-    font-size: 25px;
+    font-size: 2.5rem;
     font-weight: 700;
-    letter-spacing: 13px;
+    letter-spacing: 1.3rem;
 }
 
 .comment p{
-    width: 1200px;
+    width: 120rem;
     display: flex;
     justify-content: center;
     align-items: center;
-    letter-spacing: 4px;
+    letter-spacing: .4rem;
     font-weight: 400;
-    font-size: 14px;
+    font-size: 1.4rem;
 }
 
 .insta{
     width: 100%;
     background-color: #F2E9E4;
-    height: 480px;
+    height: 48rem;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -277,10 +278,10 @@
 }
 
 .insta h2{
-    margin-top: 100px;
-    margin-bottom: 20px;
-    letter-spacing: 13px;
-    font-size: 25px;
+    margin-top: 10rem;
+    margin-bottom: 2rem;
+    letter-spacing: 1.3rem;
+    font-size: 2.5rem;
     font-weight: 700;
 }
 
@@ -295,8 +296,8 @@
 }
 
 .insta div img{
-    margin-left: 40px;
-    margin-bottom: 50px;
+    margin-left: 4rem;
+    margin-bottom: 5rem;
     transition: .5s ease;
 }
 
@@ -305,9 +306,9 @@
 }
 
 footer{
-    margin-top: 80px;
+    margin-top: 8rem;
     width: 100%;
-    height: 80px;
+    height: 8rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -320,22 +321,22 @@ footer div{
 }
 
 footer div a{
-    margin-left: 220px;
-    letter-spacing: 2px;
+    margin-left: 22rem;
+    letter-spacing: .2rem;
     color: black;
     font-weight: 700;
-    font-size: 18px;
+    font-size: 1.8rem;
     transition: .5s ease;
 }
 
 footer div a i{
-    font-size: 25px;
+    font-size: 2.5rem;
 }
 
 footer h3{
-    margin-left: 80px;
-    margin-right: 100px;
-    letter-spacing: 4px;
+    margin-left: 8rem;
+    margin-right: 10rem;
+    letter-spacing: .4rem;
     cursor: default;
 }
 
