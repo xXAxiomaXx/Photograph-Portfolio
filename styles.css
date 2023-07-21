@@ -12,7 +12,7 @@
 
   html {
     overflow-x: hidden;
-    font-size: 52.5%;
+    font-size: 50%;
   }
 
 .header{
@@ -259,6 +259,7 @@
 
 .comment p{
     width: 120rem;
+    margin-bottom:10rem;
     display: flex;
     justify-content: center;
     align-items: center;
