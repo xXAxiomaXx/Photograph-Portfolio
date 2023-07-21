@@ -259,6 +259,7 @@
 
 .comment p{
     width: 120rem;
+    margin-bottom:2rem;
     display: flex;
     justify-content: center;
     align-items: center;
