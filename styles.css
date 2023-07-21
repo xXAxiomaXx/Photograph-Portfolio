@@ -248,7 +248,7 @@
     flex-direction: column;
     justify-content: space-around;
     align-items: center;
-    margin-bottom: 10rem;
+    margin-bottom: 15rem;
 }
 
 .comment h2{
@@ -259,7 +259,6 @@
 
 .comment p{
     width: 120rem;
-    margin-bottom:10rem;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -279,7 +278,7 @@
 }
 
 .insta h2{
-    margin-top: 10rem;
+    margin-top: 15rem;
     margin-bottom: 2rem;
     letter-spacing: 1.3rem;
     font-size: 2.5rem;
