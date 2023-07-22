@@ -278,7 +278,7 @@
 }
 
 .insta h2{
-    margin-top: 20rem;
+    margin-top: 23rem;
     letter-spacing: 1.3rem;
     font-size: 2.5rem;
     font-weight: 700;
@@ -296,10 +296,10 @@
 
 .insta div img{
     margin-left: 5rem;
-    margin-bottom: 8rem;
+    margin-bottom: 5rem;
     transition: .5s ease;
-    width:70%;
-    height:70%;
+    width:75%;
+    height:75%;
 }
 
 .insta div img:hover{
@@ -307,7 +307,7 @@
 }
 
 footer{
-    margin-top: 8rem;
+    margin-top: 10rem;
     width: 100%;
     height: 8rem;
     display: flex;
